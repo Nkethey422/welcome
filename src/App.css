@@ -41,18 +41,6 @@ h2 {
   }
 }
 
-/* @keyframes animate {
-  0% {
-    color: #0004;
-    text-shadow: none;
-  }
-  100% {
-    color: #ffff;
-    text-shadow: 0 0 10px #d30fed, 0 0 20px #d30fed, 0 0 40px #d30fed,
-      0 0 80px #d30fed, 0 0 160px #d30fed;
-  }
-} */
-
 @keyframes animate {
   0% {
     color: #0004;
